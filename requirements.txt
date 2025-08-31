@@ -1,6 +1,5 @@
 boto3
 strands-agents
 strands-agents-tools
-strands-agents[ollama]
 PyPDF2
 streamlit
